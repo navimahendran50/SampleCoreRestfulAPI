@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UVU5y2+8u8MgOcSYdGvCWtVoue5ooLM/J72A7m7i83M=",
+  "Source": "SampleCoreRestfulAPI",
+  "BasePath": "_content/SampleCoreRestfulAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
