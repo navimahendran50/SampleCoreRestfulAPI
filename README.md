@@ -17,4 +17,15 @@ Technologies Used:
 
 Installation & Setup:
  1. Clone the repository
-    git clone https://github.com/yourusername/SampleCoreRestfulAPI.git
+     git clone https://github.com/navimahendran50/SampleCoreRestfulAPI.git
+     cd SampleCoreRestfulAPI
+ 2. Build the project
+     dotnet build
+ 3. Run the application
+     dotnet run
+ 4. Access the API
+     API Endpoints: http://localhost:5000/api/{entity}
+
+Future Enhancements:
+ * Implement JWT authentication for securing endpoints.
+    
